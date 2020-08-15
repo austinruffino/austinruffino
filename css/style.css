@@ -1,0 +1,74 @@
+/*
+    stlye.css
+*/
+
+/* -------------------------------------------------------------- */
+/* Import Fonts */
+
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto:100&display=swap');
+
+/* -------------------------------------------------------------- */
+/* Page Level Rules */
+
+h1{
+    font-family:'Roboto', sans-serif;
+    font-size:30px;
+}
+
+h2{
+    font-size:20px;
+}
+
+body{
+    font-family: 'Lato', sans-serif;
+    background-color: #FFFFFF;
+    text-align:center;
+    width:790px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1, h2, h3, nav, a {font-family: : 'Open Sans', sans-serif;
+}
+
+footer{
+    font-size: 10px
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-red{
+    color: red;
+}
+
+.center-image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table{
+    margin-left:auto; 
+    margin-right:auto;
+    width: 100%;
+  }
+
+td {
+  border-bottom: 1px solid #ddd;
+}
+
+/*
+#story-section{
+    background-color: green;
+    color: white
+}
+*/
+
+/* -------------------------------------------------------------- */
+/* Color Rules */
+
+
+
